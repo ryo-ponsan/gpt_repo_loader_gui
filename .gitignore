@@ -1,0 +1,10 @@
+# Ignore the configuration file that should be customized by each user
+config.ini
+
+# Ignore other common files/directories you don't want in your repo
+__pycache__/
+*.pyc
+*.pyo
+*.env
+*.venv
+.DS_Store
